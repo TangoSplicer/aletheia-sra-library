@@ -1,0 +1,12 @@
+{
+  "@context": "https://aletheia-sra.org/forensics.jsonld",
+  "@type": "ForensicArtifact",
+  "identifier": "string",
+  "version": "string",
+  "jurisdiction": "string",
+  "hashes": {
+    "sha256": "string",
+    "blake3": "string"
+  }
+}
+

@@ -1,0 +1,6 @@
+# Contributing to Aletheia SRA
+
+## Verification Process
+1. You must provide a hash of the binary.
+2. You must provide the official source (e.g., Apple App Store version UK-3.2).
+3. Two independent forensic practitioners must verify the hash before merge.
