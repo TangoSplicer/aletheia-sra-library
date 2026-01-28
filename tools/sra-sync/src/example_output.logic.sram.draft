@@ -1,0 +1,15 @@
+{
+  "manifest_version": "1.0.0",
+  "status": "UNVERIFIED_DRAFT",
+  "artifact_name": "uk_fsr_regex_v2.bin",
+  "artifact_type": "RegexSet",
+  "size_bytes": 1048576,
+  "hashes": {
+    "blake3": "d7a8fbb307d7809469ca9abcb0082e4f8d5651e46d3cdb762d02d0bf37c9e592",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "technical_observations": [
+    "File size: 1048576 bytes",
+    "Deterministic scan completed in air-gapped environment."
+  ]
+}

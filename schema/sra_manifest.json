@@ -1,0 +1,10 @@
+{
+  "fsr_compliance": "v2_2025",
+  "artifact_type": "TechnicalObservation",
+  "verification_method": "ISO17025_Section_7.2",
+  "hashes": {
+    "blake3": "...",
+    "sha256": "..."
+  },
+  "attestation": "Practitioner-Signed"
+}

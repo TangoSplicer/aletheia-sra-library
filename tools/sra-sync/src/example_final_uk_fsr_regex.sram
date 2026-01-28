@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0.0",
+  "status": "SEALED_ATTESTED",
+  "artifact_name": "uk_fsr_regex_v2.bin",
+  "hashes": {
+    "blake3": "d7a8fbb3...",
+    "sha256": "e3b0c442..."
+  },
+  "technical_observations": [
+    "File size: 1048576 bytes",
+    "Method verification successful under ISO 17025 §7.2.1.5."
+  ],
+  "attestation": {
+    "declaration": "I attest that this artifact has been verified as fit for forensic use...",
+    "practitioner": {
+      "id": "EXP-9921",
+      "role": "Principal Digital Forensics Architect",
+      "organization": "Aletheia Oversight Group",
+      "jurisdiction": "UK (FSR v2)"
+    },
+    "signature": "mU3...[base64]...",
+    "public_key": "vX9...[base64]..."
+  }
+}
