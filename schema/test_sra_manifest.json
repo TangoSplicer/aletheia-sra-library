@@ -10,13 +10,13 @@
   
   "verification_method": "BLAKE3+SHA256 deterministic fixture validation",
   
-  "size_bytes": 45,
+  "size_bytes": 46,
   
   "hashes": {
     
-    "blake3": "627591010d4c0deed7ff9c7fdbacdc9d00d2a6e19f8da76dd08c92bd49710004",
+    "blake3": "32b770c60c9575eac1f86720d600d935f9980aa836be7551b52fe69080b27da1",
     
-    "sha256": "333fe80818dd6b86ba6ea6fd765f1bebd465677bc83402ec1ebc1d9b9f20f03a"
+    "sha256": "8491010a8e5df593d28054ab3a54e3bf90fb4d2261d94b2d7fe2c8c3c9a4caa1"
     
   },
   
