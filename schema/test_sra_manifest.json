@@ -1,0 +1,38 @@
+{
+  
+  "schema_version": "1.0",
+  
+  "artifact_name": "Project Aletheia SRA integration fixture",
+  
+  "artifact_path": "../fixtures/integration-artifact.txt",
+  
+  "artifact_type": "ReferenceData",
+  
+  "verification_method": "BLAKE3+SHA256 deterministic fixture validation",
+  
+  "size_bytes": 45,
+  
+  "hashes": {
+    
+    "blake3": "627591010d4c0deed7ff9c7fdbacdc9d00d2a6e19f8da76dd08c92bd49710004",
+    
+    "sha256": "333fe80818dd6b86ba6ea6fd765f1bebd465677bc83402ec1ebc1d9b9f20f03a"
+    
+  },
+  
+  "attestation": "Repository-controlled test fixture; not a practitioner authorization or production SRA artifact."
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
